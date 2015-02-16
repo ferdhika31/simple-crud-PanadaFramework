@@ -1,7 +1,7 @@
 README
 ======
 
-Tutorial Login Logout
+Tutorial CRUD (Create Read Update Delete)
 ------------
 
 Tutorial on http://blog.dika.web.id/
